@@ -16,5 +16,5 @@ Work/Organization
 
 Certification Profiles
 -- 
-- Some of my certifications ![DQLab](https://academy.dqlab.id/main/rachievement)
+- Some of my certifications [DQLab](https://academy.dqlab.id/main/rachievement/)
 
