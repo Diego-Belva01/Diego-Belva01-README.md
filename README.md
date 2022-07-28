@@ -12,9 +12,9 @@ Work/Organization
 --
 - I'm currently studying at Merdeka Malang University
 - Now I'm in 6th Semester
-- Management of the Coaching Division anagement of the Coaching Division
+- Management of the Coaching Division => UK-PSM BAHANA SUARA MERDEKA
 
 Certification Profiles
 -- 
-- Some of my certifications [DQLab]((https://academy.dqlab.id/main/rachievement))
+- Some of my certifications ![DQLab](https://academy.dqlab.id/main/rachievement)
 
