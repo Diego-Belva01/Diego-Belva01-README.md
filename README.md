@@ -16,5 +16,5 @@ Work/Organization
 
 Certification Profiles
 -- 
-- Some of my certifications [DQLab](https://academy.dqlab.id/main/rachievement/)
+- Some of my certifications from DQLab : [R Fundamental](https://academy.dqlab.id/Certificate_check_2/resultV2/DQLABINTR1AHWDCO),[Python Fundamental](https://academy.dqlab.id/Certificate_check_2/resultV2/DQLABINTP1UFHAMJ), [Fundamental SQL Using SELECT Statement](https://academy.dqlab.id/Certificate_check_2/resultV2/DQLABSQLT1WJOPAS)
 
