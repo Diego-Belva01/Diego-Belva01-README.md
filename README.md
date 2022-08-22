@@ -11,7 +11,7 @@
 Work/Organization
 --
 - I'm currently studying at Merdeka Malang University
-- Now I'm in 6th Semester
+- Now I'm in 7th Semester
 - Management of the Coaching Division => UK-PSM BAHANA SUARA MERDEKA
 
 Certification Profiles
